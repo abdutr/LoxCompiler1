@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Include JLox directory and its subdirectories
+!/JLox/
+!/JLox/**/*
